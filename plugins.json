@@ -1,8 +1,6 @@
-{
-  "plugins": [
+[
     {
       "id": "nf-azure",
-      "name": "nf-azure",
       "releases": [
         {
           "version": "1.11.0-sophia-0.1",
@@ -14,4 +12,4 @@
       ]
     }
   ]
-}
+
