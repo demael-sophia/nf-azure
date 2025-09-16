@@ -1,15 +1,17 @@
-[
+{
+  "plugins": [
     {
       "id": "nf-azure",
       "name": "nf-azure",
       "releases": [
         {
-            "version": "1.11.0-sophia-0.1",
-            "date":	"2025-09-15T15:37:04.771809+02:00",
-            "metadata":	"https://github.com/demael-sophia/nf-azure/releases/download/1.11.0-sophia-0.1/nf-azure-1.11.0-sophia-0.1-meta.json",
-            "requires":	">=24.04.4",
-            "sha512sum":"cf52c5353a033caf64c130e8b786a48bc58cbe1c35b3d242c60dffaa4fd859fc05fa492c63a5d32ef4c42df4e8a41ac0fe0ba2dbaef7dc13734273162b86f008"
+          "version": "1.11.0-sophia-0.1",
+          "date": "2025-09-15T15:37:04.771809+02:00",
+          "metadata": "https://github.com/demael-sophia/nf-azure/releases/download/1.11.0-sophia-0.1/nf-azure-1.11.0-sophia-0.1-meta.json",
+          "requires": ">=24.04.4",
+          "sha512sum": "cf52c5353a033caf64c130e8b786a48bc58cbe1c35b3d242c60dffaa4fd859fc05fa492c63a5d32ef4c42df4e8a41ac0fe0ba2dbaef7dc13734273162b86f008"
         }
       ]
-  }
-]
+    }
+  ]
+}
