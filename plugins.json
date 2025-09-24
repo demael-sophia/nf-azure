@@ -10,6 +10,13 @@
                 "sha512sum": "cf52c5353a033caf64c130e8b786a48bc58cbe1c35b3d242c60dffaa4fd859fc05fa492c63a5d32ef4c42df4e8a41ac0fe0ba2dbaef7dc13734273162b86f008"
             },
             {
+                "version": "1.11.0-sophia-0.2",
+                "date": "2025-09-24T12:01:08.312329+02:00",
+                "url": "https://github.com/demael-sophia/nf-azure/releases/download/1.11.0-sophia-0.2/nf-azure-1.11.0-sophia-0.2.zip",
+                "requires": ">=24.04.4",
+                "sha512sum": "fc850fe58d8983b8434697471e8d2bbf74a2a4b19c1b6e1a8eab8d6e53948cd49a20ca3a8de8222f5406f0902ec8055e8fb0f9233f27a091fba7b02af8976f13"
+            },
+            {
                 "version": "1.7.0-sophia-0.1",
                 "date": "2025-09-17T09:44:24.810295+02:00",
                 "url": "https://github.com/demael-sophia/nf-azure/releases/download/1.7.0-sophia-0.1/nf-azure-1.7.0-sophia-0.1.zip",
